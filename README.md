@@ -6,3 +6,4 @@
 
 * .NET 8
 * Entity Framework Core
+* Polly - Resiliência
